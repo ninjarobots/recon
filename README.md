@@ -8,7 +8,7 @@ sudo python3 recond_server.py --host 192.168.xxx.xxx --port 5000 ~/<lab name>
 ```
 
 ### Web Page
-- Navigate to <host>:<port> 
+- Navigate to \<host\>:\<port\> 
 - Add your target ips to the list
 - Start the scans
 
