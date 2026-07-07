@@ -1,6 +1,12 @@
 # recon
 oscp recon scripts
 
+## Requirements
+
+``` bash
+sudo apt install python3-nmap
+```
+
 ## Usage
 ### Start the server
 ``` bash
